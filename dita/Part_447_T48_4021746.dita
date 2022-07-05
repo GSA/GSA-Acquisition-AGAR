@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_447_T48_4021746">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 447</ph> - TRANSPORTATION</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 30 and 40 U.S.C. 486(c).
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           61 FR 53646, Oct. 15, 1996, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_447_3_T48_40217461.dita#Subpart_447_3_T48_40217461">Subpart 447.3 - Transportation in Supply Contracts</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_447_302_T48_4021746191.dita#Section_447_302_T48_4021746191">447.302 Place of delivery - F.O.B. point.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_447_305_T48_4021746192.dita#Section_447_305_T48_4021746192">447.305 Solicitation provisions, contract clauses, and transportation factors.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_447_305_10_T48_4021746193.dita#Section_447_305_10_T48_4021746193">447.305-10 Packing, marking, and consignment instructions.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

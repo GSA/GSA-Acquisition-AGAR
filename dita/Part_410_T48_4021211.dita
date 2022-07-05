@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_410_T48_4021211">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 410</ph> - MARKET RESEARCH</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 301 and 40 U.S.C. 486(c) 
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           70 FR 45, Jan. 3, 2005, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Section_410_001_T48_4021211091.dita#Section_410_001_T48_4021211091">410.001 Policy.</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Section_410_002_T48_4021211092.dita#Section_410_002_T48_4021211092">410.002 Procedures.</xref>
+               </p>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

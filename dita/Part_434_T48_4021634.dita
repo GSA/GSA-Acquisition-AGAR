@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_434_T48_4021634">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 434</ph> - MAJOR SYSTEM ACQUISITION</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 301 and 40 U.S.C. 486(c).
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           70 FR 49, Jan. 3, 2005, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_434_0_T48_40216341.dita#Subpart_434_0_T48_40216341">Subpart 434.0 - General</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_434_001_T48_4021634191.dita#Section_434_001_T48_4021634191">434.001 Definitions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_434_002_T48_4021634192.dita#Section_434_002_T48_4021634192">434.002 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_434_003_T48_4021634193.dita#Section_434_003_T48_4021634193">434.003 Responsibilities.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_434_004_T48_4021634194.dita#Section_434_004_T48_4021634194">434.004 Acquisition strategy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_434_005_T48_4021634195.dita#Section_434_005_T48_4021634195">434.005 General requirements.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_434_005_6_T48_4021634196.dita#Section_434_005_6_T48_4021634196">434.005-6 Full production.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

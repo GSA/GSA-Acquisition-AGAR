@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_407_T48_402128">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 407</ph> - ACQUISITION PLANNING</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 301 and 40 U.S.C.
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           61 FR 53646, Oct. 15, 1996, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_407_1_T48_4021281.dita#Subpart_407_1_T48_4021281">Subpart 407.1 - Acquisition Plans</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_407_103_T48_402128191.dita#Section_407_103_T48_402128191">407.103 Agency-head responsibilities.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_407_170_T48_402128192.dita#Section_407_170_T48_402128192">407.170 Advance acquisition plans.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_407_3_T48_4021282.dita#Subpart_407_3_T48_4021282">Subpart 407.3 [Reserved]</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_407_5_T48_4021283.dita#Subpart_407_5_T48_4021283">Subpart 407.5 - Inherently Governmental Functions</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_407_503_T48_402128391.dita#Section_407_503_T48_402128391">407.503 Policy.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

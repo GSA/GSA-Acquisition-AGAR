@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_453_T48_4021852">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 453</ph> - FORMS</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 301 and 40 U.S.C. 486(c).
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           61 FR 53646, Oct. 15, 1996, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Section_453_000_T48_4021852091.dita#Section_453_000_T48_4021852091">453.000 Scope of part.</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_453_1_T48_40218521.dita#Subpart_453_1_T48_40218521">Subpart 453.1 - General</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_453_103_T48_4021852191.dita#Section_453_103_T48_4021852191">453.103 Exceptions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_453_108_T48_4021852192.dita#Section_453_108_T48_4021852192">453.108 Recommendations concerning forms.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_453_2_T48_40218522.dita#Subpart_453_2_T48_40218522">Subpart 453.2 - Prescription of Forms</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_453_200_T48_4021852291.dita#Section_453_200_T48_4021852291">453.200 Scope of subpart.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_453_213_T48_4021852292.dita#Section_453_213_T48_4021852292">453.213 Simplified Acquisition and other simplified purchase procedures (AD-838).</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_453_270_T48_4021852293.dita#Section_453_270_T48_4021852293">453.270 Request for contract action (AD-700).</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_453_3_T48_40218523.dita#Subpart_453_3_T48_40218523">Subpart 453.3 - Illustrations of Forms</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_453_300_T48_4021852391.dita#Section_453_300_T48_4021852391">453.300 Scope of subpart.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_453_303_T48_4021852392.dita#Section_453_303_T48_4021852392">453.303 Agency forms.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_453_303_700_T48_4021852393.dita#Section_453_303_700_T48_4021852393">453.303-700 Procurement Request (AD-700).</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_453_303_838_T48_4021852394.dita#Section_453_303_838_T48_4021852394">453.303-838 Purchase Order (AD-838).</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

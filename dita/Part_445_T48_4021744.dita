@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_445_T48_4021744">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 445</ph> - GOVERNMENT PROPERTY</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 301 and 40 U.S.C. 486(c).
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           61 FR 53646, Oct. 15, 1996, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_445_3_T48_40217441.dita#Subpart_445_3_T48_40217441">Subpart 445.3 - Providing Government Property to Contractors</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_445_302_T48_4021744191.dita#Section_445_302_T48_4021744191">445.302 Providing facilities.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_445_302_1_T48_4021744192.dita#Section_445_302_1_T48_4021744192">445.302-1 Policy.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_445_4_T48_40217442.dita#Subpart_445_4_T48_40217442">Subpart 445.4 - Contractor Use and Rental of Government Property</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_445_403_T48_4021744291.dita#Section_445_403_T48_4021744291">445.403 Rental - Use and Charges clause.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_445_407_T48_4021744292.dita#Section_445_407_T48_4021744292">445.407 Non-Government use of plant equipment.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_445_6_T48_40217443.dita#Subpart_445_6_T48_40217443">Subpart 445.6 [Reserved]</xref>
+               </p>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>
