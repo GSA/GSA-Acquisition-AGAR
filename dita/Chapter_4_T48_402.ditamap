@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "C:\GSA-Acquisition-tools\TOOLS\StructureGSA_FAR\xml\DITA_1.2\app\technicalContent\dtd\map.dtd">
-<map outputclass="dfars" otherprops="String2Xref">
+<map outputclass="ecfr" otherprops="String2Xref">
    <title> CHAPTER 4 - DEPARTMENT OF AGRICULTURE</title>
    <topicref navtitle="Volume Number"
              href="VolumeChapter_4_T48_402.dita"
