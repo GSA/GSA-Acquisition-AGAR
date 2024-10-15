@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_408_T48_402129">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 408</ph> - REQUIRED SOURCES OF SUPPLIES AND SERVICES</title>
+      <title class="- topic/title ">PART 408—REQUIRED SOURCES OF SUPPLIES AND SERVICES
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -22,7 +22,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_408_4_T48_4021291.dita#Subpart_408_4_T48_4021291">Subpart 408.4 - Federal Supply Schedules</xref>
+                        href="Subpart_408_4_T48_4021291.dita#Subpart_408_4_T48_4021291">Subpart 408.4—Federal Supply Schedules</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -34,7 +34,7 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_408_404_3_T48_402129192.dita#Section_408_404_3_T48_402129192">408.404-3 Requests for waivers.</xref>
+                              href="Section_408_404-3_T48_402129192.dita#Section_408_404-3_T48_402129192">408.404-3 Requests for waivers.</xref>
                      </p>
                   </li>
                </ul>
@@ -42,7 +42,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_408_7_T48_4021292.dita#Subpart_408_7_T48_4021292">Subpart 408.7 - Acquisition From Nonprofit Agencies Employing People Who Are Blind or Severely Disabled</xref>
+                        href="Subpart_408_7_T48_4021292.dita#Subpart_408_7_T48_4021292">Subpart 408.7—Acquisition From Nonprofit Agencies Employing People Who Are Blind or Severely Disabled</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -60,19 +60,19 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_408_705_2_T48_402129293.dita#Section_408_705_2_T48_402129293">408.705-2 Direct order process.</xref>
+                              href="Section_408_705-2_T48_402129293.dita#Section_408_705-2_T48_402129293">408.705-2 Direct order process.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_408_705_3_T48_402129294.dita#Section_408_705_3_T48_402129294">408.705-3 Allocation process.</xref>
+                              href="Section_408_705-3_T48_402129294.dita#Section_408_705-3_T48_402129294">408.705-3 Allocation process.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_408_705_4_T48_402129295.dita#Section_408_705_4_T48_402129295">408.705-4 Compliance with orders.</xref>
+                              href="Section_408_705-4_T48_402129295.dita#Section_408_705-4_T48_402129295">408.705-4 Compliance with orders.</xref>
                      </p>
                   </li>
                   <li>
@@ -110,7 +110,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_408_8_T48_4021293.dita#Subpart_408_8_T48_4021293">Subpart 408.8 - Acquisition of Printing and Related Supplies</xref>
+                        href="Subpart_408_8_T48_4021293.dita#Subpart_408_8_T48_4021293">Subpart 408.8—Acquisition of Printing and Related Supplies</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -124,7 +124,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_408_11_T48_4021294.dita#Subpart_408_11_T48_4021294">Subpart 408.11 - Leasing of Motor Vehicles</xref>
+                        href="Subpart_408_11_T48_4021294.dita#Subpart_408_11_T48_4021294">Subpart 408.11—Leasing of Motor Vehicles</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

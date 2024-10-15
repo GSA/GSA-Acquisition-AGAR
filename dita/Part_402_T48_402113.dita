@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_402_T48_402113">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 402</ph> - DEFINITIONS OF WORDS AND TERMS</title>
+      <title class="- topic/title ">PART 402—DEFINITIONS OF WORDS AND TERMS
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -28,7 +28,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_402_1_T48_4021131.dita#Subpart_402_1_T48_4021131">Subpart 402.1 - Definitions</xref>
+                        href="Subpart_402_1_T48_4021131.dita#Subpart_402_1_T48_4021131">Subpart 402.1—Definitions</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

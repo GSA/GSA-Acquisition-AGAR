@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_431_T48_4021531">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 431</ph> - CONTRACT COST PRINCIPLES AND PROCEDURES</title>
+      <title class="- topic/title ">PART 431—CONTRACT COST PRINCIPLES AND PROCEDURES
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -17,7 +17,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_431_1_T48_40215311.dita#Subpart_431_1_T48_40215311">Subpart 431.1 - Applicability</xref>
+                        href="Subpart_431_1_T48_40215311.dita#Subpart_431_1_T48_40215311">Subpart 431.1—Applicability</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

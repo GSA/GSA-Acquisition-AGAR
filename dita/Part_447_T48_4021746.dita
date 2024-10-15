@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_447_T48_4021746">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 447</ph> - TRANSPORTATION</title>
+      <title class="- topic/title ">PART 447—TRANSPORTATION
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -22,13 +22,13 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_447_3_T48_40217461.dita#Subpart_447_3_T48_40217461">Subpart 447.3 - Transportation in Supply Contracts</xref>
+                        href="Subpart_447_3_T48_40217461.dita#Subpart_447_3_T48_40217461">Subpart 447.3—Transportation in Supply Contracts</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_447_302_T48_4021746191.dita#Section_447_302_T48_4021746191">447.302 Place of delivery - F.O.B. point.</xref>
+                              href="Section_447_302_T48_4021746191.dita#Section_447_302_T48_4021746191">447.302 Place of delivery—F.O.B. point.</xref>
                      </p>
                   </li>
                   <li>
@@ -40,7 +40,7 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_447_305_10_T48_4021746193.dita#Section_447_305_10_T48_4021746193">447.305-10 Packing, marking, and consignment instructions.</xref>
+                              href="Section_447_305-10_T48_4021746193.dita#Section_447_305-10_T48_4021746193">447.305-10 Packing, marking, and consignment instructions.</xref>
                      </p>
                   </li>
                </ul>

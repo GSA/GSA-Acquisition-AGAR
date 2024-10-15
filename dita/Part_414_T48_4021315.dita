@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_414_T48_4021315">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 414</ph> - SEALED BIDDING</title>
+      <title class="- topic/title ">PART 414—SEALED BIDDING
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -22,7 +22,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_414_2_T48_40213151.dita#Subpart_414_2_T48_40213151">Subpart 414.2 - Solicitation of Bids</xref>
+                        href="Subpart_414_2_T48_40213151.dita#Subpart_414_2_T48_40213151">Subpart 414.2—Solicitation of Bids</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -34,7 +34,7 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_414_201_6_T48_4021315192.dita#Section_414_201_6_T48_4021315192">414.201-6 Solicitation provision.</xref>
+                              href="Section_414_201-6_T48_4021315192.dita#Section_414_201-6_T48_4021315192">414.201-6 Solicitation provision.</xref>
                      </p>
                   </li>
                </ul>
@@ -42,7 +42,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_414_4_T48_40213152.dita#Subpart_414_4_T48_40213152">Subpart 414.4 - Opening of Bids and Award of Contract</xref>
+                        href="Subpart_414_4_T48_40213152.dita#Subpart_414_4_T48_40213152">Subpart 414.4—Opening of Bids and Award of Contract</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -54,7 +54,7 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_414_404_1_T48_4021315292.dita#Section_414_404_1_T48_4021315292">414.404-1 Cancellation of invitations after opening.</xref>
+                              href="Section_414_404-1_T48_4021315292.dita#Section_414_404-1_T48_4021315292">414.404-1 Cancellation of invitations after opening.</xref>
                      </p>
                   </li>
                   <li>
@@ -66,13 +66,13 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_414_407_3_T48_4021315294.dita#Section_414_407_3_T48_4021315294">414.407-3 Other mistakes disclosed before award.</xref>
+                              href="Section_414_407-3_T48_4021315294.dita#Section_414_407-3_T48_4021315294">414.407-3 Other mistakes disclosed before award.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_414_407_4_T48_4021315295.dita#Section_414_407_4_T48_4021315295">414.407-4 Mistakes after award.</xref>
+                              href="Section_414_407-4_T48_4021315295.dita#Section_414_407-4_T48_4021315295">414.407-4 Mistakes after award.</xref>
                      </p>
                   </li>
                   <li>
@@ -84,7 +84,7 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_414_409_2_T48_4021315297.dita#Section_414_409_2_T48_4021315297">414.409-2 Award of classified contracts.</xref>
+                              href="Section_414_409-2_T48_4021315297.dita#Section_414_409-2_T48_4021315297">414.409-2 Award of classified contracts.</xref>
                      </p>
                   </li>
                </ul>

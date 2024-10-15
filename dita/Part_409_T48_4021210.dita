@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_409_T48_4021210">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 409</ph> - CONTRACTOR QUALIFICATIONS</title>
+      <title class="- topic/title ">PART 409—CONTRACTOR QUALIFICATIONS
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -22,7 +22,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_409_4_T48_40212101.dita#Subpart_409_4_T48_40212101">Subpart 409.4 - Debarment, Suspension and Ineligibility</xref>
+                        href="Subpart_409_4_T48_40212101.dita#Subpart_409_4_T48_40212101">Subpart 409.4—Debarment, Suspension and Ineligibility</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -46,13 +46,13 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_409_405_1_T48_4021210194.dita#Section_409_405_1_T48_4021210194">409.405-1 Continuation of current contracts.</xref>
+                              href="Section_409_405-1_T48_4021210194.dita#Section_409_405-1_T48_4021210194">409.405-1 Continuation of current contracts.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_409_405_2_T48_4021210195.dita#Section_409_405_2_T48_4021210195">409.405-2 Restrictions on subcontracting.</xref>
+                              href="Section_409_405-2_T48_4021210195.dita#Section_409_405-2_T48_4021210195">409.405-2 Restrictions on subcontracting.</xref>
                      </p>
                   </li>
                   <li>
@@ -64,7 +64,7 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_409_406_3_T48_4021210197.dita#Section_409_406_3_T48_4021210197">409.406-3 Procedures.</xref>
+                              href="Section_409_406-3_T48_4021210197.dita#Section_409_406-3_T48_4021210197">409.406-3 Procedures.</xref>
                      </p>
                   </li>
                   <li>
@@ -76,7 +76,7 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_409_407_3_T48_4021210199.dita#Section_409_407_3_T48_4021210199">409.407-3 Procedures.</xref>
+                              href="Section_409_407-3_T48_4021210199.dita#Section_409_407-3_T48_4021210199">409.407-3 Procedures.</xref>
                      </p>
                   </li>
                </ul>
@@ -84,7 +84,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_409_5_T48_40212102.dita#Subpart_409_5_T48_40212102">Subpart 409.5 - Organizational and Consultant Conflicts of Interest</xref>
+                        href="Subpart_409_5_T48_40212102.dita#Subpart_409_5_T48_40212102">Subpart 409.5—Organizational and Consultant Conflicts of Interest</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_436_T48_4021636">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 436</ph> - CONSTRUCTION AND ARCHITECT-ENGINEER CONTRACTS</title>
+      <title class="- topic/title ">PART 436—CONSTRUCTION AND ARCHITECT-ENGINEER CONTRACTS
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -24,7 +24,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_436_2_T48_40216361.dita#Subpart_436_2_T48_40216361">Subpart 436.2 - Special Aspects of Contracting for Construction</xref>
+                        href="Subpart_436_2_T48_40216361.dita#Subpart_436_2_T48_40216361">Subpart 436.2—Special Aspects of Contracting for Construction</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -66,7 +66,7 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_436_213_2_T48_4021636197.dita#Section_436_213_2_T48_4021636197">436.213-2 Presolicitation notices.</xref>
+                              href="Section_436_213-2_T48_4021636197.dita#Section_436_213-2_T48_4021636197">436.213-2 Presolicitation notices.</xref>
                      </p>
                   </li>
                </ul>
@@ -80,7 +80,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_436_5_T48_40216363.dita#Subpart_436_5_T48_40216363">Subpart 436.5 - Contract Clauses</xref>
+                        href="Subpart_436_5_T48_40216363.dita#Subpart_436_5_T48_40216363">Subpart 436.5—Contract Clauses</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -148,7 +148,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_436_6_T48_40216364.dita#Subpart_436_6_T48_40216364">Subpart 436.6 - Architect-Engineer Service</xref>
+                        href="Subpart_436_6_T48_40216364.dita#Subpart_436_6_T48_40216364">Subpart 436.6—Architect-Engineer Service</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -160,7 +160,7 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_436_601_3_T48_4021636492.dita#Section_436_601_3_T48_4021636492">436.601-3 Applicable contracting procedures.</xref>
+                              href="Section_436_601-3_T48_4021636492.dita#Section_436_601-3_T48_4021636492">436.601-3 Applicable contracting procedures.</xref>
                      </p>
                   </li>
                   <li>
@@ -172,31 +172,31 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_436_602_1_T48_4021636494.dita#Section_436_602_1_T48_4021636494">436.602-1 Selection criteria.</xref>
+                              href="Section_436_602-1_T48_4021636494.dita#Section_436_602-1_T48_4021636494">436.602-1 Selection criteria.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_436_602_2_T48_4021636495.dita#Section_436_602_2_T48_4021636495">436.602-2 Evaluation boards.</xref>
+                              href="Section_436_602-2_T48_4021636495.dita#Section_436_602-2_T48_4021636495">436.602-2 Evaluation boards.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_436_602_3_T48_4021636496.dita#Section_436_602_3_T48_4021636496">436.602-3 Evaluation board functions.</xref>
+                              href="Section_436_602-3_T48_4021636496.dita#Section_436_602-3_T48_4021636496">436.602-3 Evaluation board functions.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_436_602_4_T48_4021636497.dita#Section_436_602_4_T48_4021636497">436.602-4 Selection authority.</xref>
+                              href="Section_436_602-4_T48_4021636497.dita#Section_436_602-4_T48_4021636497">436.602-4 Selection authority.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_436_602_5_T48_4021636498.dita#Section_436_602_5_T48_4021636498">436.602-5 Short selection process for contracts not to exceed the simplified acquisition threshold.</xref>
+                              href="Section_436_602-5_T48_4021636498.dita#Section_436_602-5_T48_4021636498">436.602-5 Short selection process for contracts not to exceed the simplified acquisition threshold.</xref>
                      </p>
                   </li>
                   <li>
@@ -226,13 +226,13 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_436_609_1_T48_40216364913.dita#Section_436_609_1_T48_40216364913">436.609-1 Design within funding limitations.</xref>
+                              href="Section_436_609-1_T48_40216364913.dita#Section_436_609-1_T48_40216364913">436.609-1 Design within funding limitations.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_436_670_T48_40216364914.dita#Section_436_670_T48_40216364914">436.670 Firms ineligible for award - construction.</xref>
+                              href="Section_436_670_T48_40216364914.dita#Section_436_670_T48_40216364914">436.670 Firms ineligible for award—construction.</xref>
                      </p>
                   </li>
                </ul>

@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_405_T48_402126">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 405</ph> - PUBLICIZING CONTRACT ACTIONS</title>
+      <title class="- topic/title ">PART 405—PUBLICIZING CONTRACT ACTIONS
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -22,7 +22,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_405_3_T48_4021261.dita#Subpart_405_3_T48_4021261">Subpart 405.3 - Synopses of Contract Awards</xref>
+                        href="Subpart_405_3_T48_4021261.dita#Subpart_405_3_T48_4021261">Subpart 405.3—Synopses of Contract Awards</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -36,7 +36,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_405_4_T48_4021262.dita#Subpart_405_4_T48_4021262">Subpart 405.4 - Release of Information</xref>
+                        href="Subpart_405_4_T48_4021262.dita#Subpart_405_4_T48_4021262">Subpart 405.4—Release of Information</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -54,7 +54,7 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_405_404_1_T48_402126293.dita#Section_405_404_1_T48_402126293">405.404-1 Release procedures.</xref>
+                              href="Section_405_404-1_T48_402126293.dita#Section_405_404-1_T48_402126293">405.404-1 Release procedures.</xref>
                      </p>
                   </li>
                </ul>
@@ -62,7 +62,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_405_5_T48_4021263.dita#Subpart_405_5_T48_4021263">Subpart 405.5 - Paid Advertisements</xref>
+                        href="Subpart_405_5_T48_4021263.dita#Subpart_405_5_T48_4021263">Subpart 405.5—Paid Advertisements</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
