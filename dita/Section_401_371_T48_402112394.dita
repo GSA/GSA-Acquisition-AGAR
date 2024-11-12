@@ -4,18 +4,22 @@
 <dita>
    <concept outputclass="Section" id="Section_401_371_T48_402112394">
       <title class="- topic/title ">
-         <ph props="autonumber">401.371</ph> AGAR Advisories.</title>
+         <ph props="autonumber">401.371</ph> USDA Contracting Desk Book.</title>
       <conbody>
-         <p xtrc="P">The SPE may issue AGAR Advisories, consistent with the policies of the FAR and the AGAR, for the following purposes:
+         <p outputclass="List1">(a) The SPE may issue and update the USDA Contracting Desk Book, consistent with the policies of the FAR and the AGAR, for the following purposes:
 </p>
-         <p outputclass="List1">(a) To communicate Department-wide policy and/or procedural guidance to contracting activities;
+         <p outputclass="List2">(1) To communicate Department-wide policy and/or procedural guidance to contracting activities;
 </p>
-         <p outputclass="List1">(b) To delegate to procurement officials authority to make determinations or to take action to implement the policies of the FAR or the AGAR; and,
+         <p outputclass="List2">(2) To delegate to procurement officials the authority to make determinations or to take action to implement the policies of the FAR or the AGAR; and,
 </p>
-         <p outputclass="List1">(c) To establish internal policy and procedures on an interim basis, prior to incorporation in the AGAR or in a Departmental Directive.
+         <p outputclass="List2">(3) To establish internal policy and procedures on an interim basis, prior to incorporation in the AGAR or in a Departmental Directive.
 </p>
-         <p outputclass="List1">(d) AGAR Advisories are only available in electronic format on the USDA Procurement Web site at <i>http://www.usda.gov/procurement/.</i>
-                              </p>
+         <p outputclass="List1">(b) The USDA Contracting Desk Book is only available in electronic format on the USDA procurement website.
+
+
+
+
+</p>
       </conbody>
    </concept>
 </dita>
