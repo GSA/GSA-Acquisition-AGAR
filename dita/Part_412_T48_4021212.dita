@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_412_T48_4021212">
+      <title class="- topic/title ">PART 412—ACQUISITION OF COMMERICAL ITEMS
+
+
+</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_412_3_T48_40212121.dita#Subpart_412_3_T48_40212121">Subpart 412.3—Solicitation Provisions and Contract Clauses for the Acquisition of Commercial Items</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_412_302_T48_4021212191.dita#Section_412_302_T48_4021212191">412.302 Tailoring of provisions and clauses for the acquisition of commercial items.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

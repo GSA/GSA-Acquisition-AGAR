@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_428_T48_4021526">
+      <title class="- topic/title ">PART 428—BONDS AND INSURANCE
+</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 301 and 40 U.S.C. 486(c).
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           89 FR 81015, Oct. 7, 2024, unless otherwise noted.
+
+
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_428_1_T48_40215261.dita#Subpart_428_1_T48_40215261">Subpart 428.1—Bonds and Other Financial Protections</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_428_101_T48_4021526191.dita#Section_428_101_T48_4021526191">428.101 Bid guarantees.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_428_101-1_T48_4021526192.dita#Section_428_101-1_T48_4021526192">428.101-1 Policy on use.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_428_106_T48_4021526193.dita#Section_428_106_T48_4021526193">428.106 Administration.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_428_106-6_T48_4021526194.dita#Section_428_106-6_T48_4021526194">428.106-6 Furnishing information.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_428_2_T48_40215262.dita#Subpart_428_2_T48_40215262">Subpart 428.2—Sureties and Other Security for Bonds</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_428_203_T48_4021526291.dita#Section_428_203_T48_4021526291">428.203 Individual sureties.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

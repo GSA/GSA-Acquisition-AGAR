@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_423_T48_4021421">
+      <title class="- topic/title ">PART 423—ENVIRONMENT, SUSTAINABLE ACQUISITION, AND MATERIAL SAFETY
+</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 301 and 40 U.S.C. 486(c).
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           89 FR 81015, Oct. 7, 2024, unless otherwise noted.
+
+
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_423_1_T48_40214211.dita#Subpart_423_1_T48_40214211">Subpart 423.1—Use of Recovered Materials and Biobased Products</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_423_107_T48_4021421191.dita#Section_423_107_T48_4021421191">423.107 Agency affirmative procurement programs.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_423_3_T48_40214212.dita#Subpart_423_3_T48_40214212">Subpart 423.3—Notice of Radioactive Material</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_423_301_T48_4021421291.dita#Section_423_301_T48_4021421291">423.301 Requirements.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_423_6_T48_40214213.dita#Subpart_423_6_T48_40214213">Subpart 423.6—Notice of Radioactive Material</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_423_601_T48_4021421391.dita#Section_423_601_T48_4021421391">423.601 Requirements.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

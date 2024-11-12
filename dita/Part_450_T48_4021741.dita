@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_450_T48_4021741">
+      <title class="- topic/title ">PART 450—EXTRAORDINARY CONTRACTUAL ACTIONS AND THE SAFETY ACT
+</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 301 and 40 U.S.C. 486(c).
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           89 FR 81015, Oct. 7, 2024, unless otherwise noted.
+
+
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_450_1_T48_40217411.dita#Subpart_450_1_T48_40217411">Subpart 450.1—Extraordinary Contractual Actions</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_450_100_T48_4021741191.dita#Section_450_100_T48_4021741191">450.100 Definitions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_450_102_T48_4021741192.dita#Section_450_102_T48_4021741192">450.102 Delegation of and limitations on exercise of authority.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_450_102-1_T48_4021741193.dita#Section_450_102-1_T48_4021741193">450.102-1 Delegation of authority.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>
